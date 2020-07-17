@@ -46,4 +46,4 @@ def main(keywords):
 
 
 if __name__ == "__main__":
-    main(["#AzureCertified"])
+    main(["#AzureCertified","#100DaysOfCloud"])
